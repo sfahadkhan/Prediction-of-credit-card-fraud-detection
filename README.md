@@ -30,9 +30,9 @@ Checked for null values/missing values in the dataset. Checked the imbalance in 
 #### Data Preprocessing :
 Under sampling has been done as data is highly unbalanced hence sample dataset has been created containing similar distribution of valid and fraud transation that is 492 transaction each.
 
-#### Splitted the data into features and targets.
+#### Split the data into features and targets.
 
-#### Splitted the data into Training data and Testing data
+#### Split the data into Training data and Test data
 
 #### Model Training :
 The machine learning model used for this project is Logistic Regression. Training data is used to train the logistic regression model and model evaluation done.
